@@ -14,7 +14,7 @@ O projeto foi construido a partir das tecnologias HTML e CSS
 
 ## 💻 Projeto
 
-O projeto se consinste no em um site na qual apresenta um Cordel, com algumas ilustrações em seu decorrer.
+O projeto se consinste em um site na qual apresenta um Cordel, com algumas ilustrações em seu decorrer.
 [- [Acesse o projeto finalizado](https://luislemesilva.github.io/projeto_cordel/)
 
   
